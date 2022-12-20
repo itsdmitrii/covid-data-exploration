@@ -1,9 +1,10 @@
 /*
 Covid 19 Data Exploration 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.
 Dataset that I used for this project https://ourworldindata.org/covid-deaths.
 At first I made two tables from the dataset.
 First one is "CovidVaccinations.xlsx", Second one is "CovidDeaths.xlsx", then I imported them into SQL.
+Data Exploration part bellow:
 */
 
 Select *
