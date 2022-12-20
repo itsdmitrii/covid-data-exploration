@@ -1,5 +1,5 @@
 /*
-Covid 19 Data Exploration 
+Covid 19 Data Exploration Project.
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.
 Dataset that I used for this project https://ourworldindata.org/covid-deaths.
 At first I made two tables from the dataset.
